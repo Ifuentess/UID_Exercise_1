@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/iesfbmoll/UID_Exercise_1/blob/master/Conceptual%20map.png" width="750" alt="accessibility text">
+  <img src="https://github.com/Ifuentess/UID_Exercise_1/blob/master/Conceptual%20map.png" width="750" alt="accessibility text">
 </p>
 
 <p align="center">
